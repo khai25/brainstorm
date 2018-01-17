@@ -1,1 +1,5 @@
 # brainstorm
+
+#WebDeveloper
+#Newbie
+#FreshBrain
